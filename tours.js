@@ -1,4 +1,4 @@
-export const tours  = [
+tours  = [
     {
         id:1,
         price:"$2,000",
